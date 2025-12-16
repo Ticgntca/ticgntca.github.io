@@ -373,7 +373,7 @@ body {
 /* kontak */
 .map img {
     width: 50%;
-    margin-left: 5%;
+    margin-left: 3%;
 }
 
 .map img:hover {
@@ -429,4 +429,5 @@ body {
     color:#fffbc6;
     margin-top: 23%;
 }
+
 
