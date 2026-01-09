@@ -114,7 +114,7 @@ body {
   text-align: center;
   display: flex;
   justify-content: center;
-  margin-top: 10%;
+  margin-top: -10%;
   gap: 10%;
 }
 
@@ -403,6 +403,7 @@ body {
 /* kontak */
 .map img {
     width: 50%;
+    margin-left: 1%;
 }
 
 .map img:hover {
@@ -458,6 +459,7 @@ body {
     color:#fffbc6;
     margin-top: 23%;
 }
+
 
 
 
