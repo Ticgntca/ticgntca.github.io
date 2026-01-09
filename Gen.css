@@ -89,14 +89,14 @@ body {
 }
 
 .profil img {
-    margin-top: 20px;
+    margin-top: 10px;
     margin-left: 12%;
     width: 30%;
     border-radius: 50%;
 }
 
 .profil p {
-    margin-bottom: 20px; 
+    margin-bottom: 10px; 
     line-height: 1.6;        
 }
 
@@ -114,7 +114,7 @@ body {
   text-align: center;
   display: flex;
   justify-content: center;
-  margin-top: -10%;
+  margin-top: -15%;
   gap: 10%;
 }
 
@@ -459,6 +459,7 @@ body {
     color:#fffbc6;
     margin-top: 23%;
 }
+
 
 
 
